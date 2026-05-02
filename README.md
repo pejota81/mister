@@ -6,6 +6,8 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
+Language: **English** | [Português (Brasil)](README.pt-BR.md) | [Español](README.es.md)
+
 # Welcome to PJfoot
 
 Welcome to **PJfoot**, the ultimate retro-styled football manager simulator inspired by the legendary Elifoot 98! Take control of your club, build your dream squad, navigate the pressures of competition, and lead your team to championship glory.
