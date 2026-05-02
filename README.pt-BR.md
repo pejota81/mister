@@ -30,7 +30,7 @@ PJfoot é um **simulador single-player de gestão de clube de futebol** com:
 
 ## 🚀 Último Lançamento
 
-### **v0.05** – Manager Market *(2 de maio de 2026)*
+### **v0.06** – Finance & Stadium Overhaul *(2 de maio de 2026)*
 
 O jogo agora está totalmente otimizado para mobile! Reformulamos toda a interface para celulares e tablets, mantendo a experiência de desktop intacta.
 
@@ -39,7 +39,7 @@ O jogo agora está totalmente otimizado para mobile! Reformulamos toda a interfa
 - 🎨 **Suporte a Temas** – Tema claro e escuro para jogar com conforto
 - 🔧 **Melhor Tratamento de Dados** – Mais desempenho e confiabilidade
 
-[📖 Notas completas da versão](changelog/v0.05.md)
+[📖 Notas completas da versão](changelog/v0.06.md)
 
 ---
 
@@ -49,6 +49,7 @@ Quer ver a evolução do jogo? Confira a jornada completa:
 
 | Versão | Lançamento | Destaques |
 |---------|---------|-----------|
+| **v0.06** | 2 de maio de 2026 | Finance & Stadium Overhaul |
 | **v0.05** | 2 de maio de 2026 | Manager Market |
 | **v0.04** | 2 de maio de 2026 | Cup Competition & Calendar Redesign |
 | **v0.03** | 2 de maio de 2026 | UX Mobile, Temas, Pipeline de Dados |
