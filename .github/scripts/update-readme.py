@@ -51,8 +51,9 @@ def parse_changelog(path):
         text = f.read()
     date_m = re.search(r"> Released: (\d{4}-\d{2}-\d{2})", text)
     date = date_m.group(1) if date_m else "2026-01-01"
-    # Title line: "# PJfoot v0.03 — Mobile UX, Data Pipeline & Themes"
-    title_m = re.search(r"^# PJfoot \S+ [—–] (.+)$", text, re.MULTILINE)
+    # Title line: "# PJfoot v0.03 — Mobile UX, ..."
+    # Changelog files use an em-dash (U+2014) between version and title.
+    title_m = re.search(r"^# PJfoot \S+ \u2014 (.+)$", text, re.MULTILINE)
     title = title_m.group(1).strip() if title_m else version
     return version, date, title
 
@@ -85,6 +86,8 @@ def update_readme(path, changelogs, lang):
 
     # 1. Update the "Latest Release" heading line.
     #    Pattern: ### **v0.03** – Some Title *(May 2, 2026)*
+    # README headings use an en-dash (U+2013): ### **v0.03** – Title *(date)*
+    # The replacement also writes an en-dash for consistency.
     def repl_heading(m):
         cur_ver = m.group(1)
         cur_title = m.group(2)
@@ -93,7 +96,7 @@ def update_readme(path, changelogs, lang):
         return f"### **{latest_ver}** \u2013 {title} *({new_date})*"
 
     content = re.sub(
-        r"^### \*\*(v[\d.]+)\*\* [–—] (.+?) \*\([^)]*\)\*$",
+        r"^### \*\*(v[\d.]+)\*\* \u2013 (.+?) \*\([^)]*\)\*$",
         repl_heading,
         content,
         flags=re.MULTILINE,
