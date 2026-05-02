@@ -3,8 +3,6 @@ name: Update READMEs on Changelog Change
 on:
   push:
     branches: [main]
-    paths:
-      - "changelog/v*.md"
   workflow_dispatch:
 
 permissions:
@@ -16,6 +14,9 @@ concurrency:
 
 jobs:
   update-readme:
+    # Skip commits made by the bot (e.g. this workflow's own README commit)
+    # to prevent an infinite trigger loop.
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
