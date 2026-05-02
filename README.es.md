@@ -1,9 +1,8 @@
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                       ⚽ PJFOOT ⚽                         ║
-║        Simulador Retro de Manager de Fútbol 1998          ║
-║   Dirige tu club. Domina la táctica. Alcanza la gloria.   ║
-╚═══════════════════════════════════════════════════════════╝
++-----------------------------------------------------------+
+|                          PJFOOT                           |
+|           Comunidad de Manager de Futbol Retro            |
++-----------------------------------------------------------+
 ```
 
 Idioma: [English](README.md) | [Português (Brasil)](README.pt-BR.md) | **Español**
@@ -20,7 +19,7 @@ Idioma: [English](README.md) | [Português (Brasil)](README.pt-BR.md) | **Españ
 
 PJfoot es un **simulador single-player de gestión de clubes de fútbol** con:
 
-- 🏆 **Competición Profunda de Ligas** – Compite en 9 divisiones clasificadas por el IFFHS Global Ranking
+- 🏆 **Competición Profunda de Ligas** – Compite en 9 divisiones dentro de un sistema global estructurado de ligas
 - 👥 **Gestión de Plantilla** – Arma tu equipo, administra la fatiga y desarrolla jóvenes talentos
 - 📊 **Tácticas Avanzadas** – Configura formaciones, estrategias y roles de jugadores
 - 📱 **Diseño Mobile-First** – Juega en escritorio o móvil con interfaz totalmente responsiva

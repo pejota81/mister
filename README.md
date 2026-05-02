@@ -1,9 +1,8 @@
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                       ⚽ PJFOOT ⚽                         ║
-║          Retro Football Manager Simulator 1998             ║
-║      Manage your club. Master the tactics. Win glory.     ║
-╚═══════════════════════════════════════════════════════════╝
++-----------------------------------------------------------+
+|                          PJFOOT                           |
+|             Retro Football Manager Community              |
++-----------------------------------------------------------+
 ```
 
 Language: **English** | [Português (Brasil)](README.pt-BR.md) | [Español](README.es.md)
@@ -20,7 +19,7 @@ Think you have what it takes to be a champion manager? This is your proving grou
 
 PJfoot is a **single-player football club management simulator** with:
 
-- 🏆 **Deep League Competition** – Compete across 9 divisions ranked by IFFHS Global Ranking
+- 🏆 **Deep League Competition** – Compete across 9 divisions in a structured global league system
 - 👥 **Squad Management** – Build your team, manage player fatigue, and develop young talent
 - 📊 **Advanced Tactics** – Configure formations, strategies, and player roles
 - 📱 **Mobile-First Design** – Play on desktop or on the go with full mobile responsiveness
