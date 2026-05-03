@@ -5,39 +5,84 @@
 
 Language: **English** | [Português (Brasil)](README.pt-BR.md) | [Español](README.es.md)
 
-# Welcome to PJfoot
+# Welcome to PJfoot ⚽
 
-Welcome to **PJfoot**, the ultimate retro-styled football manager simulator inspired by the legendary Elifoot 98! Take control of your club, build your dream squad, navigate the pressures of compe[...]  
+Ever dreamed of managing your own football club? **PJfoot** is the ultimate retro-styled football manager simulator that brings the golden age of sports gaming right to your screen—inspired by the legendary *Elifoot 98*.
 
-Think you have what it takes to be a champion manager? This is your proving ground.
-
----
-
-## 🎮 About the Game
-
-PJfoot is a **single-player football club management simulator** with:
-
-- 🏆 **Deep League Competition** – Compete across 9 divisions in a structured global league system
-- 👥 **Squad Management** – Build your team, manage player fatigue, and develop young talent
-- 📊 **Advanced Tactics** – Configure formations, strategies, and player roles
-- 📱 **Mobile-First Design** – Play on desktop or on the go with full mobile responsiveness
-- 🎨 **Retro Terminal UI** – Classic DOS-inspired aesthetics with dark themes
-- 🌍 **Multi-Language Support** – Play in your preferred language
+Build your dream squad. Scout hidden talents. Outsmart rival managers. Rise from the bottom divisions to glory. Every decision matters. Every match is crucial. **Think you have what it takes to be a champion?**
 
 ---
 
-## 🚀 Latest Release
+## 🎮 What Makes PJfoot Addictive
 
-### **v0.13** – Security, Polish & DevOps Hardening *(May 3, 2026)*
+### 🏆 **Season-Long Campaigns**
+Compete across **9 competitive divisions** in a structured global league system. Start as an underdog and climb your way to the top. Will you become a legend?
 
-The game is now fully optimized for mobile! We've overhauled the entire interface for phones and tablets while keeping the desktop experience pristine.
+### 👥 **Deep Squad Management**
+- Build your team with hundreds of unique players
+- Master the **fatigue & fitness system** — tired players underperform, so squad rotation becomes a crucial tactical skill
+- Develop young talent with real skill growth
+- Negotiate contracts and manage your budget wisely
+- Strategic transfers during official windows (summer & winter)
 
-**What's New:**
-- ✨ **Mobile Overhaul** – Responsive layout with hamburger navigation
-- 🎨 **Theme Support** – Dark and light themes for comfortable gameplay
-- 🔧 **Better Data Handling** – Improved performance and reliability
+### ⚽ **Live Match Drama**
+Experience real-time match simulation like never before:
+- Watch every goal, miss, and tackle unfold in the **live match feed**
+- Yellow and red card system creates genuine tension
+- Suspended players will be missed next week
+- Half-time substitutions let you adapt your tactics on the fly
+- Post-match analysis with detailed player ratings
+
+### 📊 **Tactical Mastery**
+- Configure formations (4-4-2, 3-5-2, 5-3-2, and more)
+- Assign player roles and strategies
+- Balance aggression vs. defensive solidity
+- React to opponent weaknesses
+
+### 🎯 **Transfer Market Intelligence**
+- Scout and sign free agents any time
+- List your surplus players for sale
+- Negotiate transfer fees with AI clubs
+- Loan out young talents and get them match experience
+- Manage incoming offers from rival clubs
+
+### 🏟️ **Club Management**
+- Manage your **stadium finances** — balancing wages, transfers, and income
+- Handle cup competitions alongside league duty
+- Navigate the manager market and hire replacements
+- Build a sustainable, profitable club
+
+### 🎨 **Retro Magic**
+- **Classic DOS-inspired terminal UI** that feels nostalgic and timeless
+- Multiple theme options: **Retro (green on black)**, **Dark (stadium night palette)**, and **Light mode**
+- Pixel-perfect responsive design — play seamlessly on **desktop or mobile**
+- Clean, readable typography optimized for long gaming sessions
+
+### 🌍 **Play Your Way**
+Fully accessible and inclusive:
+- **Multi-language support** — English, Português (Brasil), and Español
+- Screen-reader friendly with full accessibility features
+- Dark and light themes for comfortable gameplay in any lighting
+- Works perfectly on phones, tablets, and desktops
+
+---
+
+## 🚀 Latest Release — Now Even Better!
+
+### **v0.13** — Security, Polish & DevOps Hardening *(May 3, 2026)*
+
+We've been hard at work making PJfoot **rock-solid and accessible** for everyone. This release isn't flashy, but it's *essential*:
+
+✨ **What's New:**
+- 🔒 **Enhanced Security** — Tightened content policies, rate limiting, and data validation to keep your saves safe
+- ♿ **Full Accessibility Overhaul** — Screen reader support, ARIA labels, and keyboard navigation for all players
+- 🎨 **Polished Themes** — Retro green shines brighter, light theme gets a vibrant red accent, dark theme now has warm stadium night vibes
+- 📱 **Mobile is Perfect** — Hamburger menus, touch-optimized controls, and fully responsive layouts
+- ⚡ **Rock-Solid Infrastructure** — Better performance, improved data handling, and CI/CD hardening
 
 [📖 Full Release Notes](changelog/v0.13.md)
+
+**Pro Tip:** No game-breaking changes. Your saves are safe to upgrade!
 
 ---
 
@@ -66,69 +111,78 @@ Curious about where we've been? Check out the complete journey:
 
 ---
 
-## 💬 Share Your Feedback
+## 💬 Help Shape PJfoot's Future — Your Feedback Matters! 
 
-We're building PJfoot with **you** in mind! Your feedback directly shapes the game's future. Here's how you can help:
+**PJfoot is a living, breathing game**, and we're building it *with you*. The features you see today—live matches, card systems, mobile optimization—came directly from player feedback. Your voice drives development. 🗣️
 
-### 🐛 Found a Bug?
-Something's not working right? [Open a bug report →](../../issues/new?template=bug_report.md)  
-The more details you provide, the faster we can fix it!
+### 🐛 **Found a Bug?**
+Something's broken? **We want to know!** The more details you provide, the faster we can squash it.
+→ [Open a Bug Report](../../issues/new?template=bug_report.md)
 
-### 💡 Got an Idea?
-Think of an awesome feature? [Submit a feature request →](../../issues/new?template=feature_request.md)  
-Suggest new mechanics, improvements, or anything you'd love to see.
+### 💡 **Got a Killer Feature Idea?**
+Dreamed up a game-changing mechanic? Want to see your favorite feature from old classics? We'd love to hear it!
+→ [Submit a Feature Request](../../issues/new?template=feature_request.md)
 
-### 💬 Let's Chat
-Got thoughts, questions, or just want to hang out with other managers? Join our [Discussions forum →](../../discussions)  
-- Share your strategies and tactics
-- Ask questions and get tips from the community
-- Discuss the future of PJfoot
-- Connect with fellow football enthusiasts
+### 💬 **Let's Chat With the Community**
+Join hundreds of football managers and discuss tactics, share your achievements, and shape the game together:
+→ [Join the Discussions Forum](../../discussions)
 
-### 📋 How to Give Great Feedback
-
-- **Be Specific** – Describe exactly what happened or what you'd like to see
-- **Search First** – Check if someone has already reported the same issue
-- **Show Examples** – Screenshots, logs, or detailed descriptions help tremendously
-- **Be Kind** – We're all working together to make this game awesome
+**Topics to chat about:**
+- 🎯 **Strategy Tips** – What tactics are working for you?
+- 🏆 **Achievements** – Share your league wins and incredible comebacks
+- 🎮 **Game Ideas** – Brainstorm new features and improvements
+- ⚽ **Football Talk** – Connect with fellow football enthusiasts
+- 🐛 **Bug Reports** – Alert the community (and us) to issues
 
 ---
 
-## 🌐 More Ways to Engage
+## 📋 How to Give *Great* Feedback
 
-- **[GitHub Issues](../../issues)** – Report bugs and request features
-- **[GitHub Discussions](../../discussions)** – General chat and community support
-- **[GitHub Pages](../../)** – Coming soon with guides and documentation
+**Make an Impact:**
+1. **Be Specific** — Describe exactly what happened or what you'd like to see. "The UI feels cluttered" is helpful; "The squad screen could be more compact on mobile" is *better*.
+2. **Search First** — Check if someone has already reported the same issue. Add your voice to existing discussions!
+3. **Show Examples** — Screenshots, save files, browser logs, and video clips help us understand and fix things faster.
+4. **Be Kind** — We're all volunteers passionate about football games. Kindness goes a long way. ❤️
+5. **Follow Up** — If a maintainer asks for clarification, jump back in. You're the expert on your issue!
 
----
 
-## 🏅 Our Vision
-
-PJfoot is a passion project dedicated to bringing back the joy of classic football management games while adding modern features and accessibility. We believe in:
-
-- **Community-Driven Development** – Your voice matters
-- **Transparency** – You can see exactly what we're working on
-- **Quality** – Every release is tested and polished
-- **Fun** – Gaming should be enjoyable, not frustrating
 
 ---
 
-## 📝 Quick Start to Contributing
+## 📚 The Journey So Far
 
-1. **Play the game** and experience it firsthand
-2. **Find something** you'd like to report or suggest
-3. **Open an Issue or Discussion** with your feedback
-4. **Our team reviews** and responds as quickly as possible
-5. **See your ideas** shape the next release!
+What started as a dream to recreate the magic of *Elifoot 98* has evolved into something special. From v0.00 in January 2026 to v0.13 in May, we've shipped **13 major releases** in just a few months:
+
+- ✅ Core game mechanics and league system
+- ✅ Squad management with sophisticated fatigue tracking
+- ✅ Live match simulation with dramatic moments
+- ✅ Transfer market with AI offers and loan system
+- ✅ Cup competitions and multi-division play
+- ✅ Full mobile responsiveness
+- ✅ Advanced accessibility features
+- ✅ Real-time performance optimization and security hardening
+
+[🔗 See the Complete Changelog →](changelog/)
 
 ---
 
-## ⚽ Let's Build Something Great Together
+## 🎮 Ready to Play?
 
-PJfoot exists because of players like you. Every bug report, feature suggestion, and community discussion helps us create a better game.
+Whether you're a hardcore football fanatic or just looking for a fun management game with retro charm, **PJfoot is waiting for you**.
 
-**Ready to make history?** Start playing, share your thoughts, and help us build the ultimate retro football manager experience.
+**Start your managerial journey today.** Lead your team to glory. Build a dynasty. Prove you're the best manager on the pitch.
 
 ---
 
-*PJfoot – Where Every Manager's Dream Begins* 🏆
+## 🌐 Stay Connected
+
+- **[GitHub Issues](../../issues)** – Report bugs, request features
+- **[GitHub Discussions](../../discussions)** – Community chat, strategy tips, achievements
+- **[View Changelog](changelog/)** – See what's new in every release
+- **[Report Security Issues](../../security/advisories)** – Responsible disclosure
+
+---
+
+**PJfoot** is made with ❤️ by the community, for the community. Thanks for being here.
+
+**Let's make the best football manager game together.** ⚽
