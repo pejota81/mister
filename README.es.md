@@ -62,7 +62,7 @@ PJfoot es un **simulador single-player de gestión de clubes de fútbol** con:
 | **v0.03** | 2 de mayo de 2026 | UX Móvil, Temas, Pipeline de Datos |
 | **v0.02** | 2 de mayo de 2026 | Gestión de Plantilla, Profundidad de Jugadores, Sistema de Fatiga |
 | **v0.01** | 2 de mayo de 2026 | Ranking de Ligas, Nueva Experiencia de Manager |
-| **v0.00** | 1 de enero de 2026 | Lanzamiento Inicial, Mecánicas Base |
+| **v0.00** | 1 de mayo de 2026 | Lanzamiento Inicial, Mecánicas Base |
 
 [📚 Ver todos los changelogs →](changelog/)
 

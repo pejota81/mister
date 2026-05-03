@@ -62,7 +62,7 @@ Quer ver a evolução do jogo? Confira a jornada completa:
 | **v0.03** | 2 de maio de 2026 | UX Mobile, Temas, Pipeline de Dados |
 | **v0.02** | 2 de maio de 2026 | Gestão de Elenco, Profundidade de Jogadores, Sistema de Fadiga |
 | **v0.01** | 2 de maio de 2026 | Ranking de Ligas, Nova Experiência de Manager |
-| **v0.00** | 1 de janeiro de 2026 | Versão Inicial, Mecânicas Centrais |
+| **v0.00** | 1 de maio de 2026 | Versão Inicial, Mecânicas Centrais |
 
 [📚 Ver todos os changelogs →](changelog/)
 

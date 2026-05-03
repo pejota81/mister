@@ -105,7 +105,7 @@ Curious about where we've been? Check out the complete journey:
 | **v0.03** | May 2, 2026 | Mobile UX, Themes, Data Pipeline |
 | **v0.02** | May 2, 2026 | Squad Management, Player Depth, Fatigue System |
 | **v0.01** | May 2, 2026 | League Rankings, New Manager Experience |
-| **v0.00** | January 1, 2026 | Initial Release, Core Game Mechanics |
+| **v0.00** | May 1, 2026 | Initial Release, Core Game Mechanics |
 
 [📚 View All Changelogs →](changelog/)
 
@@ -151,7 +151,7 @@ Join hundreds of football managers and discuss tactics, share your achievements,
 
 ## 📚 The Journey So Far
 
-What started as a dream to recreate the magic of *Elifoot 98* has evolved into something special. From v0.00 in January 2026 to v0.13 in May, we've shipped **13 major releases** in just a few months:
+What started as a dream to recreate the magic of *Elifoot 98* has evolved into something special. From v0.00 in May 2026 to v0.13 in May, we've shipped **13 major releases** in just a few months:
 
 - ✅ Core game mechanics and league system
 - ✅ Squad management with sophisticated fatigue tracking
