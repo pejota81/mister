@@ -56,7 +56,7 @@ Curious about where we've been? Check out the complete journey:
 | **v0.03** | May 2, 2026 | Mobile UX, Themes, Data Pipeline |
 | **v0.02** | May 2, 2026 | Squad Management, Player Depth, Fatigue System |
 | **v0.01** | May 2, 2026 | League Rankings, New Manager Experience |
-| **v0.00** | January 1, 2026 | Initial Release, Core Game Mechanics |
+| **v0.00** | May 1, 2026 | Initial Release, Core Game Mechanics |
 
 [📚 View All Changelogs →](changelog/)
 
