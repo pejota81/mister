@@ -28,7 +28,7 @@ PJfoot is a **single-player football club management simulator** with:
 
 ## 🚀 Latest Release
 
-### **v0.10** – Match Day Experience & Fixture Balancing *(May 2, 2026)*
+### **v0.11** – Mobile Polish, Accessibility & Quality Pass *(May 3, 2026)*
 
 The game is now fully optimized for mobile! We've overhauled the entire interface for phones and tablets while keeping the desktop experience pristine.
 
@@ -37,7 +37,7 @@ The game is now fully optimized for mobile! We've overhauled the entire interfac
 - 🎨 **Theme Support** – Dark and light themes for comfortable gameplay
 - 🔧 **Better Data Handling** – Improved performance and reliability
 
-[📖 Full Release Notes](changelog/v0.10.md)
+[📖 Full Release Notes](changelog/v0.11.md)
 
 ---
 
@@ -47,6 +47,7 @@ Curious about where we've been? Check out the complete journey:
 
 | Version | Release | Highlights |
 |---------|---------|-----------|
+| **v0.11** | May 3, 2026 | Mobile Polish, Accessibility & Quality Pass |
 | **v0.10** | May 2, 2026 | Match Day Experience & Fixture Balancing |
 | **v0.09** | May 2, 2026 | Tactics Overhaul & Player Stats |
 | **v0.08** | May 2, 2026 | Transfer Market Overhaul & Free Agency |
