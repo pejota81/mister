@@ -148,7 +148,7 @@ No new gameplay features this time — just everything that makes the game feel 
 - ⚡ **Resilience** — React ErrorBoundary on the full app, retry logic with exponential backoff on all API and Cosmos DB calls, loading and error screens instead of blank pages
 - 🛠️ **CI/CD** — `lint → type-check → build` pipeline, `npm audit` on every push, production source maps disabled
 
-[📖 Full Release Notes](changelog/v0.15.md)
+[📖 Full Release Notes](changelog/v0.16.md)
 
 > **Your saves are safe.** No data migrations or breaking changes in this release.
 
@@ -158,6 +158,7 @@ No new gameplay features this time — just everything that makes the game feel 
 
 | Version | Release | Highlights |
 |---------|---------|-----------|
+| **v0.16** | May 16, 2026 | Dashboard Layout Refresh, Top Scorers & News Actions |
 | **v0.15** | May 3, 2026 | News System, Dashboard Polish & Save Reliability |
 | **v0.14** | May 3, 2026 | Manager Rankings, Champions Hall & Unified Cup Calendar |
 | **v0.13** | May 3, 2026 | Security, Polish & DevOps Hardening |

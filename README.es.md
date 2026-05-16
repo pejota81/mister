@@ -30,7 +30,7 @@ PJfoot es un **simulador single-player de gestión de clubes de fútbol** con:
 
 ## 🚀 Última Versión
 
-### **v0.15** – News System, Dashboard Polish & Save Reliability *(3 de mayo de 2026)*
+### **v0.16** – Dashboard Layout Refresh, Top Scorers & News Actions *(16 de mayo de 2026)*
 
 ¡El juego ahora está completamente optimizado para móvil! Rediseñamos toda la interfaz para teléfonos y tablets, manteniendo intacta la experiencia de escritorio.
 
@@ -39,7 +39,7 @@ PJfoot es un **simulador single-player de gestión de clubes de fútbol** con:
 - 🎨 **Soporte de Temas** – Tema claro y oscuro para jugar con comodidad
 - 🔧 **Mejor Manejo de Datos** – Mayor rendimiento y fiabilidad
 
-[📖 Notas completas de la versión](changelog/v0.15.md)
+[📖 Notas completas de la versión](changelog/v0.16.md)
 
 ---
 
@@ -49,6 +49,7 @@ PJfoot es un **simulador single-player de gestión de clubes de fútbol** con:
 
 | Versión | Lanzamiento | Destacados |
 |---------|---------|-----------|
+| **v0.16** | 16 de mayo de 2026 | Dashboard Layout Refresh, Top Scorers & News Actions |
 | **v0.15** | 3 de mayo de 2026 | News System, Dashboard Polish & Save Reliability |
 | **v0.14** | 3 de mayo de 2026 | Manager Rankings, Champions Hall & Unified Cup Calendar |
 | **v0.13** | 3 de mayo de 2026 | Security, Polish & DevOps Hardening |
