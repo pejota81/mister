@@ -30,7 +30,7 @@ Mister é um **simulador single-player de gestão de clube de futebol** com:
 
 ## 🚀 Último Lançamento
 
-### **v0.27** – v0.27 *(17 de maio de 2026)*
+### **v0.27.1** – v0.27.1 *(17 de maio de 2026)*
 
 O jogo agora está totalmente otimizado para mobile! Reformulamos toda a interface para celulares e tablets, mantendo a experiência de desktop intacta.
 
@@ -39,7 +39,7 @@ O jogo agora está totalmente otimizado para mobile! Reformulamos toda a interfa
 - 🎨 **Suporte a Temas** – Tema claro e escuro para jogar com conforto
 - 🔧 **Melhor Tratamento de Dados** – Mais desempenho e confiabilidade
 
-[📖 Notas completas da versão](changelog/v0.27.md)
+[📖 Notas completas da versão](changelog/v0.27.1.md)
 
 ---
 
@@ -49,6 +49,7 @@ Quer ver a evolução do jogo? Confira a jornada completa:
 
 | Versão | Lançamento | Destaques |
 |---------|---------|-----------|
+| **v0.27.1** | 17 de maio de 2026 | v0.27.1 |
 | **v0.27** | 17 de maio de 2026 | v0.27 |
 | **v0.26.4** | 17 de maio de 2026 | v0.26.4 |
 | **v0.26.3** | 17 de maio de 2026 | v0.26.3 |

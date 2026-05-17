@@ -138,7 +138,7 @@ No new gameplay features this time — just everything that makes the game feel 
 - ⚡ **Resilience** — React ErrorBoundary on the full app, retry logic with exponential backoff on all API and Cosmos DB calls, loading and error screens instead of blank pages
 - 🛠️ **CI/CD** — `lint → type-check → build` pipeline, `npm audit` on every push, production source maps disabled
 
-[📖 Full Release Notes](changelog/v0.27.md)
+[📖 Full Release Notes](changelog/v0.27.1.md)
 
 > **Your saves are safe.** No data migrations or breaking changes in this release.
 
@@ -148,6 +148,7 @@ No new gameplay features this time — just everything that makes the game feel 
 
 | Version | Release | Highlights |
 |---------|---------|-----------|
+| **v0.27.1** | May 17, 2026 | v0.27.1 |
 | **v0.27** | May 17, 2026 | v0.27 |
 | **v0.26.4** | May 17, 2026 | v0.26.4 |
 | **v0.26.3** | May 17, 2026 | v0.26.3 |
