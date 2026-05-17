@@ -148,7 +148,7 @@ No new gameplay features this time — just everything that makes the game feel 
 - ⚡ **Resilience** — React ErrorBoundary on the full app, retry logic with exponential backoff on all API and Cosmos DB calls, loading and error screens instead of blank pages
 - 🛠️ **CI/CD** — `lint → type-check → build` pipeline, `npm audit` on every push, production source maps disabled
 
-[📖 Full Release Notes](changelog/v0.19.md)
+[📖 Full Release Notes](changelog/v0.20.md)
 
 > **Your saves are safe.** No data migrations or breaking changes in this release.
 
@@ -158,6 +158,7 @@ No new gameplay features this time — just everything that makes the game feel 
 
 | Version | Release | Highlights |
 |---------|---------|-----------|
+| **v0.20** | May 16, 2026 | Auth Flow Simplification |
 | **v0.19** | May 16, 2026 | Accounts, Profile Settings & Password Recovery |
 | **v0.18** | May 16, 2026 | 4-Segment Formation Display & Mobile Responsiveness |
 | **v0.17** | May 16, 2026 | Admin Login Key Matching Hardening |

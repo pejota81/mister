@@ -30,7 +30,7 @@ PJfoot é um **simulador single-player de gestão de clube de futebol** com:
 
 ## 🚀 Último Lançamento
 
-### **v0.19** – Accounts, Profile Settings & Password Recovery *(16 de maio de 2026)*
+### **v0.20** – Auth Flow Simplification *(16 de maio de 2026)*
 
 O jogo agora está totalmente otimizado para mobile! Reformulamos toda a interface para celulares e tablets, mantendo a experiência de desktop intacta.
 
@@ -39,7 +39,7 @@ O jogo agora está totalmente otimizado para mobile! Reformulamos toda a interfa
 - 🎨 **Suporte a Temas** – Tema claro e escuro para jogar com conforto
 - 🔧 **Melhor Tratamento de Dados** – Mais desempenho e confiabilidade
 
-[📖 Notas completas da versão](changelog/v0.19.md)
+[📖 Notas completas da versão](changelog/v0.20.md)
 
 ---
 
@@ -49,6 +49,7 @@ Quer ver a evolução do jogo? Confira a jornada completa:
 
 | Versão | Lançamento | Destaques |
 |---------|---------|-----------|
+| **v0.20** | 16 de maio de 2026 | Auth Flow Simplification |
 | **v0.19** | 16 de maio de 2026 | Accounts, Profile Settings & Password Recovery |
 | **v0.18** | 16 de maio de 2026 | 4-Segment Formation Display & Mobile Responsiveness |
 | **v0.17** | 16 de maio de 2026 | Admin Login Key Matching Hardening |
