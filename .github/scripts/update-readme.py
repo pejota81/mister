@@ -51,9 +51,9 @@ def parse_changelog(path):
         text = f.read()
     date_m = re.search(r"> Released: (\d{4}-\d{2}-\d{2})", text)
     date = date_m.group(1) if date_m else "2026-05-01"
-    # Title line: "# PJfoot v0.03 — Mobile UX, ..."
+    # Title line: "# Mister v0.03 — Mobile UX, ..."
     # Changelog files use an em-dash (U+2014) between version and title.
-    title_m = re.search(r"^# PJfoot \S+ \u2014 (.+)$", text, re.MULTILINE)
+    title_m = re.search(r"^# (?:Mister|PJfoot) \S+ [\u2014-] (.+)$", text, re.MULTILINE)
     title = title_m.group(1).strip() if title_m else version
     return version, date, title
 

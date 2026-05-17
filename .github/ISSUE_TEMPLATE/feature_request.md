@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea or improvement for the PJfoot app
+about: Suggest an idea or improvement for the Mister app
 title: "[FEATURE] "
 labels: enhancement
 assignees: ''

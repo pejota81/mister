@@ -26,7 +26,7 @@ jobs:
           app-id: ${{ secrets.PJFOOT_MIRROR_APP_ID }}
           private-key: ${{ secrets.PJFOOT_MIRROR_APP_PRIVATE_KEY }}
           owner: pejota81
-          repositories: pjfoot
+          repositories: mister
 
       - name: Checkout destination repo
         uses: actions/checkout@v4

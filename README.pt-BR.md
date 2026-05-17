@@ -1,15 +1,15 @@
 ```
 +-----------------------------------------------------------+
-|                          PJFOOT                           |
+|                          MISTER                           |
 |          Hub da Comunidade do Manager de Futebol          |
 +-----------------------------------------------------------+
 ```
 
 Idioma: [English](README.md) | **Português (Brasil)** | [Español](README.es.md)
 
-# Bem-vindo ao PJfoot
+# Bem-vindo ao Mister
 
-Bem-vindo ao **PJfoot**, o simulador de manager de futebol com estilo retrô inspirado no lendário Elifoot 98! Assuma o controle do seu clube, monte o elenco dos sonhos, enfrente a pressão da temporada e leve seu time ao título.
+Bem-vindo ao **Mister**, o simulador de manager de futebol com estilo retrô inspirado no lendário Elifoot 98! Assuma o controle do seu clube, monte o elenco dos sonhos, enfrente a pressão da temporada e leve seu time ao título.
 
 Acha que tem o que é preciso para ser campeão? Aqui é sua prova.
 
@@ -17,7 +17,7 @@ Acha que tem o que é preciso para ser campeão? Aqui é sua prova.
 
 ## 🎮 Sobre o Jogo
 
-PJfoot é um **simulador single-player de gestão de clube de futebol** com:
+Mister é um **simulador single-player de gestão de clube de futebol** com:
 
 - 🏆 **Competições Profundas** – Dispute em 9 divisões em um sistema global estruturado de ligas
 - 👥 **Gestão de Elenco** – Monte seu time, gerencie fadiga e desenvolva jovens talentos
@@ -79,7 +79,7 @@ Quer ver a evolução do jogo? Confira a jornada completa:
 
 ## 💬 Envie seu Feedback
 
-Estamos construindo o PJfoot com **você** em mente! Seu feedback impacta diretamente o futuro do jogo. Veja como ajudar:
+Estamos construindo o Mister com **você** em mente! Seu feedback impacta diretamente o futuro do jogo. Veja como ajudar:
 
 ### 🐛 Encontrou um Bug?
 Algo não está funcionando como deveria? [Abrir bug report →](../../issues/new?template=bug_report.md)  
@@ -93,7 +93,7 @@ Sugira novas mecânicas, melhorias ou qualquer coisa que você gostaria de ver.
 Quer compartilhar opiniões, tirar dúvidas ou trocar ideia com outros managers? Participe do nosso [fórum de Discussions →](../../discussions)  
 - Compartilhe estratégias e táticas
 - Tire dúvidas com a comunidade
-- Discuta o futuro do PJfoot
+- Discuta o futuro do Mister
 - Conecte-se com outros fãs de futebol
 
 ### 📋 Como dar um ótimo feedback
@@ -115,7 +115,7 @@ Quer compartilhar opiniões, tirar dúvidas ou trocar ideia com outros managers?
 
 ## 🏅 Nossa Visão
 
-PJfoot é um projeto de paixão para resgatar a diversão dos clássicos jogos de manager de futebol, com recursos modernos e mais acessibilidade. Acreditamos em:
+Mister é um projeto de paixão para resgatar a diversão dos clássicos jogos de manager de futebol, com recursos modernos e mais acessibilidade. Acreditamos em:
 
 - **Desenvolvimento Guiado pela Comunidade** – Sua voz importa
 - **Transparência** – Você acompanha tudo o que estamos construindo
@@ -136,10 +136,10 @@ PJfoot é um projeto de paixão para resgatar a diversão dos clássicos jogos d
 
 ## ⚽ Vamos Construir Algo Incrível Juntos
 
-PJfoot existe por causa de jogadores como você. Cada bug report, sugestão de recurso e discussão com a comunidade ajuda a criar um jogo melhor.
+Mister existe por causa de jogadores como você. Cada bug report, sugestão de recurso e discussão com a comunidade ajuda a criar um jogo melhor.
 
 **Pronto para fazer história?** Jogue, compartilhe suas ideias e ajude a construir a melhor experiência retrô de manager de futebol.
 
 ---
 
-*PJfoot – Onde o sonho de todo manager começa* 🏆
+*Mister – Onde o sonho de todo manager começa* 🏆

@@ -1,5 +1,5 @@
 +-----------------------------------------------------------+
-|                          PJFOOT                           |
+|                          MISTER                           |
 |             Retro Football Manager Community              |
 +-----------------------------------------------------------+
 
@@ -11,24 +11,24 @@ Language: **English** | [Português (Brasil)](README.pt-BR.md) | [Español](READ
 > **Got questions? Want tips? Just want to talk football?**
 > Our managers community is live on WhatsApp — get support, share tactics, and be the first to hear about new releases.
 >
-> ### 👉 **[Join the PJfoot WhatsApp Group](https://chat.whatsapp.com/C4r6lJ09VmQHSTBniDdlVn?mode=gi_t)**
+> ### 👉 **[Join the Mister WhatsApp Group](https://chat.whatsapp.com/C4r6lJ09VmQHSTBniDdlVn?mode=gi_t)**
 >
 > _Tap the link above on your phone and jump straight in. See you on the pitch!_ ⚽
 
 ---
 
-# Welcome to PJfoot ⚽
+# Welcome to Mister ⚽
 
-Ever dreamed of managing your own football club from the ground up? **PJfoot** is a single-player, retro-styled football manager simulator inspired by the legendary *Elifoot 98* — brought into the modern era with real league data, deep tactics, and a live match engine.
+Ever dreamed of managing your own football club from the ground up? **Mister** is a single-player, retro-styled football manager simulator inspired by the legendary *Elifoot 98* — brought into the modern era with real league data, deep tactics, and a live match engine.
 
 Start at the very bottom of the global pyramid. Earn your reputation. Climb through nine divisions. Make history.
 
 ---
 
-## 🎮 What Makes PJfoot Addictive
+## 🎮 What Makes Mister Addictive
 
 ### 🌍 **A Real Global Football Pyramid**
-PJfoot simulates **9 divisions** ranked by IFFHS prestige, featuring real leagues from around the world:
+Mister simulates **9 divisions** ranked by IFFHS prestige, featuring real leagues from around the world:
 
 | Division | League | Country |
 |----------|--------|---------|
@@ -73,7 +73,7 @@ Use **Auto mode** to let the engine pick the best XI by form score, or take **Ma
 ---
 
 ### ⚽ **Live Match Drama**
-Forget instant results. PJfoot plays out every match event by event:
+Forget instant results. Mister plays out every match event by event:
 
 - Goals ⚽, missed chances 💥, yellow cards 🟨, and red cards 🟥 are revealed one by one
 - **Yellow card accumulation** — five yellows on the season earns an automatic one-week ban
@@ -186,9 +186,9 @@ No new gameplay features this time — just everything that makes the game feel 
 
 ---
 
-## 💬 Help Shape PJfoot's Future
+## 💬 Help Shape Mister's Future
 
-**PJfoot is built with you.** The live match feed, card system, half-time substitutions, loan market — all of it shaped by player feedback. Your report today could be tomorrow's feature.
+**Mister is built with you.** The live match feed, card system, half-time substitutions, loan market — all of it shaped by player feedback. Your report today could be tomorrow's feature.
 
 ### 🐛 Found a Bug?
 Describe what happened and we'll get on it fast.
@@ -209,7 +209,7 @@ Talk tactics, share your promotion runs, and help steer the game's direction.
 1. **Be specific** — "The squad table is hard to read on mobile" lands better than "UI is bad"
 2. **Search first** — add your voice to an existing report if it already exists
 3. **Attach evidence** — a screenshot, a save file, or a browser console log helps us reproduce the issue fast
-4. **Be kind** — everyone here loves football games and wants PJfoot to be great
+4. **Be kind** — everyone here loves football games and wants Mister to be great
 5. **Follow up** — if someone asks a clarifying question, you're the expert on your own issue
 
 ---
@@ -224,6 +224,6 @@ Talk tactics, share your promotion runs, and help steer the game's direction.
 
 ---
 
-**PJfoot** is made with ❤️ by the community, for the community.
+**Mister** is made with ❤️ by the community, for the community.
 
 **Start at the bottom. Climb to the top. Make history.** 🏆

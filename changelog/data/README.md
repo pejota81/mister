@@ -1,4 +1,4 @@
-# PJfoot — Data Changelog
+# Mister — Data Changelog
 
 This directory contains release notes for each versioned data snapshot.
 

@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a problem with the PJfoot app
+about: Report a problem with the Mister app
 title: "[BUG] "
 labels: bug
 assignees: ''

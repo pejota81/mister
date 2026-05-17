@@ -18,7 +18,7 @@ jobs:
           app-id: ${{ secrets.PJFOOT_MIRROR_APP_ID }}
           private-key: ${{ secrets.PJFOOT_MIRROR_APP_PRIVATE_KEY }}
           owner: pejota81
-          repositories: pjfoot
+          repositories: mister
 
       - name: Create issue in private repo
         env:
@@ -37,6 +37,6 @@ jobs:
 
           gh api \
             -X POST \
-            /repos/pejota81/pjfoot/issues \
+            /repos/pejota81/mister/issues \
             -f title="$SOURCE_TITLE" \
             -f body="$body"
